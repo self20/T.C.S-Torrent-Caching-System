@@ -16,7 +16,7 @@ ___________________________________________________________________
     you're good to go (i used cron-job.org for the cron, they're good, give 
     them a beer as they deserve it :P).
 
-
+    I've deleted the part where it indexes the magnet, it takes too much place on the DB
 ___________________________________________________________________
 #Disclaimer:
 
